@@ -2,7 +2,8 @@
 #include <stdlib.h>
 
 struct Node{
-    int key;struct Node *left, *right;
+    int key;
+    struct Node *left, *right;
 };
 void inorder(struct Node* node){
     if(node != NULL){
