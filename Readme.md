@@ -16,3 +16,10 @@
   - [Bubble Sort](https://github.com/prafulpathare/data-structures/blob/master/sorting/bubbleSort.c)
   - [Insertion Sort](https://github.com/prafulpathare/data-structures/blob/master/sorting/insertionSort.c)
   - [Quick Sort](https://github.com/prafulpathare/data-structures/blob/master/sorting/quickSort.c)
+
+#
+
+#### Compilation Steps
+```shell
+  $ gcc ./linkedList/LL.c -o ./bin/main
+```
